@@ -1,6 +1,6 @@
 # UAV_images_segmentation
 [Kaagle competition:](https://www.kaggle.com/c/fdl21-fdl-dsba)
-Design and implement a deep learning model in order to perform the automatic segmentation of such images. 
+Design and implement a deep learning model in order to perform the automatic segmentation of UAV images. 
 
 In total there are 25 categories of segments (e.g. roof, trees, pools etc.).
 
